@@ -5,11 +5,11 @@ Blog of Fake e-shops
 
 May:
 
-www[.]shopallin[.]xyz           -> Shoes     * _This is being deployed using RFI attacks and javascript redirection
+- www[.]shopallin[.]xyz           -> Shoes     * _This is being deployed using RFI attacks and javascript redirection_
 
 April:
 
-_Identified using common email: service03[@]tradeng[.]onmicrosoft[.]com
+_Identified using common email: service03[@]tradeng[.]onmicrosoft[.]com_
 
 - www[.]bagleybooks[.]com         -> Books
 - www[.]cabaloria[.]com           -> 
@@ -36,7 +36,7 @@ _Identified using common email: service03[@]tradeng[.]onmicrosoft[.]com
 
 # 2018
 
-_Identified by verifying VPS SSH Keys:
+_Identified by verifying VPS SSH Keys:_
 
 - alvieromarborse[.]online  -> Alviero Martini 
 - borbonesesaldi[.]online   -> Borbonese
