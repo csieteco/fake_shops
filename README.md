@@ -56,6 +56,4 @@ _Identified by verifying VPS SSH Keys:_
 - www[.]martensventa[.]online -> Dr Martens
 - www[.]neomartenshop[.]online -> Dr Martens
 - www[.]salomonzapato[.]online -> Salomon
-- www[.]vlztiendas[.]online -> Velez
-- www[.]vlzventa[.]online   -> Velez
 - www[.]totbolsas[.]online  -> totto
